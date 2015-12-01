@@ -12,7 +12,7 @@ There are also multiple types of interactable object that were created: Monster,
   
 Encountering the dragon also triggers a battle sequence.
   
-https://github.com/gcherr/Adventure
+
 
 logOfActivity:
 
@@ -150,7 +150,5 @@ fight
 Congratulations, you have escaped the cave and survived the Adventure.
 Game Over.
 os-prompt% exit
-
-https://github.com/gcherr/Adventure
 
 Script done on Fri May 10 20:28:17 2013

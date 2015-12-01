@@ -2,7 +2,7 @@
 old project for CMPS 11
 
 Adventure Game created by:
-Glen William Herrera (gcherrer@ucsc.edu) and Carlos Penate (cpenate@ ucsc.edu)
+Glen William Herrera (gcherrer@ucsc.edu) and Carlos Penate (cpenate@ucsc.edu)
 
 The goal of this game is to defeat the dragon in the lair.
   
@@ -15,3 +15,4 @@ There are also multiple types of interactable object that were created: Monster,
   
 Encountering the dragon also triggers a battle sequence.
   
+https://github.com/gcherr/Adventure
