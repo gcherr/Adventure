@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" main="Adventure" manifest="" root="" work="">
+    <createjar file="Adventure.jar" flags="12"/>
+    <source>
+      <file active="true" name="Adventure.java" package="" timestamp="10-May-2013 21:22:37">
+        <select from="4304" to="4304"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Room.java" package="" timestamp="10-May-2013 17:46:00">
+        <select from="4304" to="4304"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Trap.java" package="" timestamp="10-May-2013 17:52:27">
+        <select from="4304" to="4304"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Monster.java" package="" timestamp="10-May-2013 20:49:59">
+        <select from="4304" to="4304"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Player.java" package="" timestamp="10-May-2013 20:50:59">
+        <select from="4304" to="4304"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Item.java" package="" timestamp="10-May-2013 20:59:42">
+        <select from="4304" to="4304"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="readme.txt" package="" timestamp="10-May-2013 21:29:19">
+        <select from="4304" to="4304"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

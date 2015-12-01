@@ -1,0 +1,154 @@
+Adventure Game created by:
+Glen William Herrera (gcherrer@ucsc.edu) and Carlos Penate (cpenate@ ucsc.edu)
+
+The goal of this game is to defeat the dragon in the lair.
+  
+The player can enter a variety of commands: north , south , east , west , look , pickup , and inventory.
+  
+There are also multiple types of interactable object that were created: Monster, Item ,and Trap.
+  Monster: creatures that the player can fight. The only monster available in the game is the Dragon.
+  Item: objects that can be picked up. They can also give the player boosts depending on the item.
+  Trap: special room objects that damage the player if interacted with.
+  
+Encountering the dragon also triggers a battle sequence.
+  
+
+
+logOfActivity:
+
+Script started on Fri May 10 20:24:54 2013
+os-prompt% java Adventure
+
+>Welcome to Adventure.
+>To play please type in a response (type 'help' for a list of commands)
+>What will you do?
+help
+>Available commands are:
+ north , south , east , west , look , pickup , inventory
+>What will you do?
+look
+>You are in Entry Chamber
+>You currently have 10 health
+>There is a small toy keychain.
+>What will you do?
+pickup
+>You picked up the Lucky Charm
+>What will you do?
+west
+>You moved west
+>What will you do?
+south
+>You moved south
+>What will you do?
+south
+>You moved south
+>You take 2 damage from the Acid Floor
+>What will you do?
+look
+>You are in Museum
+>You currently have 8 health
+>There is a suit of metal armor
+>What will you do?
+pickup
+>You picked up the Armor
+>What will you do?
+look
+>You are in Museum
+>You currently have 8 health
+>The room is empty
+>What will you do?
+inventory
+>Your list of items:
+ Lucky Charm
+ Armor
+>What will you do?
+north
+>You moved north
+>What will you do?
+north
+>You moved north
+>You take 0 damage from the Acid Floor
+>What will you do?
+east
+>You moved east
+>What will you do?
+east
+>You moved east
+>What will you do?
+south
+>You moved south
+>You heal 10 points of health
+>What will you do?
+look
+>You are in Healing Spring
+>You currently have 18 health
+>The room is empty
+>What will you do?
+north
+>You moved north
+>What will you do?
+north
+>You moved north
+>What will you do?
+pickup
+>You picked up the Sword
+>What will you do?
+south
+>You moved south
+>What will you do?
+west
+>You moved west
+>What will you do?
+north
+>You moved north
+>You are faced with the Dragon
+>Available Commands:
+ fight, status , escape 
+fight
+>You hit the enemy for 3 damage
+>The enemy hits you for 1 damage
+>Available Commands:
+ fight, status , escape 
+status
+>You currently have 17 health
+>The monster has 17 health
+>Available Commands:
+ fight, status , escape 
+fight
+>You hit the enemy for 3 damage
+>The enemy hits you for 1 damage
+>Available Commands:
+ fight, status , escape 
+fight
+>You hit the enemy for 3 damage
+>The enemy hits you for 1 damage
+>Available Commands:
+ fight, status , escape 
+fight
+>You hit the enemy for 3 damage
+>The enemy hits you for 1 damage
+>Available Commands:
+ fight, status , escape 
+fight
+>You hit the enemy for 3 damage
+>The enemy hits you for 1 damage
+>Available Commands:
+ fight, status , escape 
+fight
+>You hit the enemy for 3 damage
+>The enemy hits you for 1 damage
+>Available Commands:
+ fight, status , escape 
+status
+>You currently have 12 health
+>The monster has 2 health
+>Available Commands:
+ fight, status , escape 
+fight
+>You hit the enemy for 3 damage
+>The enemy hits you for 1 damage
+Congratulations, you have escaped the cave and survived the Adventure.
+Game Over.
+os-prompt% exit
+
+Script done on Fri May 10 20:28:17 2013
